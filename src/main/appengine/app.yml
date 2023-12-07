@@ -1,0 +1,7 @@
+runtime: java
+api_version: 1
+runtime_config:
+  jdk: openjdk17
+handlers:
+  - url: /.*
+    script: this field is required, but ignored offffff google
